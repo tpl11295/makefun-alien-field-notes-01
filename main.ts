@@ -1,5 +1,6 @@
 // Alien Field Notes: The Two Day Earth Review — one alien tourist's review of Earth, 200 characters max.
 // Subject: an alien tourist rates Earth — five stars for the sunsets, docked for the locals charging rent to sleep on their own planet.
+// Output: exactly one line (170 characters), written to /output/entry.txt.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
